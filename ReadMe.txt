@@ -1,1 +1,2 @@
-This is a readme for the Java Geo Game I created for the JavaScript course on TreeHouse.
+This is a readme for the JavaScript Geo Game I created for the JavaScript course on TreeHouse. It consists of five questions
+and tracks the score of the player after each answer. At the end it designates a rank to the player.
